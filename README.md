@@ -1,6 +1,6 @@
 # Harknotes Releases
 
-Download the latest version of [Harknotes](https://harknotes.app) — privacy-first meeting transcription that runs locally on your machine.
+Download the latest version of [Harknotes](https://loosewire.dev/harknotes) — privacy-first meeting transcription that runs locally on your machine.
 
 ## Downloads
 
@@ -46,5 +46,5 @@ sudo rpm -i harknotes-*.rpm
 
 Harknotes captures and transcribes meetings using whisper.cpp — entirely on your device. No bot joins your calls, no audio leaves your machine.
 
-- Website: [harknotes.app](https://harknotes.app)
-- Privacy: [harknotes.app/harknotes/privacy](https://harknotes.app/harknotes/privacy)
+- Website: [loosewire.dev/harknotes](https://loosewire.dev/harknotes)
+- Privacy: [loosewire.dev/harknotes/privacy](https://loosewire.dev/harknotes/harknotes/privacy)
