@@ -24,6 +24,10 @@ Harknotes is not yet notarized with Apple. After installing, macOS will block th
 
 You only need to do this once.
 
+## macOS: Keychain prompt
+
+On first launch, macOS will ask for permission to access "Harknotes Safe Storage" in your keychain. This is Harknotes securely storing your settings and auth tokens using macOS Keychain. Click **"Always Allow"** — you won't be asked again.
+
 ## Linux
 
 **AppImage:**
